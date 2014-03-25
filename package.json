@@ -1,0 +1,17 @@
+{
+  "name": "TextmateClassic",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A light-hearted, bright and bubbly syntax theme featuring bright colors, and inspired by the Espresso default highlighting, and the Soda Sublime Text 2 theme.",
+  "repository": "https://github.com/wxnet2013/TextmateClassic",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/atom/TextmateClassic/raw/master/LICENSE.md"
+    }
+  ],
+  "engines": {
+    "atom": ">0.39.0"
+  }
+}
